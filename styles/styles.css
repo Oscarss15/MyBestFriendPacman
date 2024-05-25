@@ -1,0 +1,40 @@
+body{
+    
+    background-image: url("/img/fondoPacman.jpg");
+  
+}
+header{
+    height: 150px;
+    
+}
+#main{
+    
+    width: 100%;
+   height: 800px; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#contenedorPacman{
+    
+    height: 100px;
+    
+}
+
+#logoPacman{
+    width: 100px;
+    height: 100px;
+}
+
+#logoheader{
+    height: 150px;
+}
+
+#logoTexto{
+    height: 100px;
+}
+#fantasmito{
+    width: 100px;
+    height: 100px;
+}
